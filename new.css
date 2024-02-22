@@ -7,8 +7,7 @@
 }
 body{
     overflow-x: hidden;
-    width: 100vw;
-    background-color: red;
+    width: 100%;
 }
 .youtube-dash{
     display: flex;
