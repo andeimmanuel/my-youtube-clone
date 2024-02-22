@@ -8,6 +8,7 @@
 body{
     overflow-x: hidden;
     width: 100vw;
+    background-color: red;
 }
 .youtube-dash{
     display: flex;
